@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <title>
+      MH.Music.Academy
+    </title>
+  </head>
+<body bgcolor = "#4B0082">
+<p align=center>
+<img alt = "saxofonealto.jpg" title ="conheça o saxofone" " src ="saxofonealto.jpg" width="400" height ="300">
+<marquee behavior="altenate"direction="up">
+ <font size="50" color = "#008080"> Idealizador:<b> Mateus Henrique</b> <br></font> 
+  <b>  </b><br>
+</marquee>
+<marquee direction="up">
+<font size="50" color = "#FF0000">Bem-vindo a MH.Music.Academy</font>
+</marquee>
+</marquee>
+<a href ="https://pt.wikipedia.org/wiki/Modos_gregos">
+<font size="50" color = "#FFFF00">O que sâo Modos Gregos?</font> 
+
+</a ><br>
+<a href = "segunda.html">
+<font size="50" color = "#FFFF00">Modos Gregos</font> 
+</a>
+
+</a ><br>
+<a href = "terceira.html">
+<font size="50" color = "#FFFF00">Triades e Tetrades</font> 
+</a>
+
+</a ><br>
+<a href = "quarta.html">
+<font size="50" color = "#FFFF00">Dicas de uso Modo/acorde </font> 
+</a>
+
+</a ><br>
+<a href = "quinta.html">
+<font size="50" color = "#FFFF00">Exercicios para aplicabilidade</font> 
+</a>
+</body>
+</html>                                                                            
